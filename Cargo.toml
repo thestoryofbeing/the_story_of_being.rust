@@ -1,0 +1,6 @@
+[package]
+name = "the_story_of_being"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
