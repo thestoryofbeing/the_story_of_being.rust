@@ -1,25 +1,25 @@
-//! The Story of Life
+//! The Story of Control
 
 //- USE ------------------------------------------------------------------------
 
-use crate::representation::story::Story;
+//use crate::representation::story::Story;
 
 //- DEF ------------------------------------------------------------------------
 //------------------------------------------------------------------------------
 
-//- DEF / STORY-----------------------------------------------------------------
+//- DEF / STORY ----------------------------------------------------------------
 //------------------------------------------------------------------------------
 
 
-struct Life
-{
-    world: i32,
-    capabilities: i32,
-    desires: i32,
-}
-
-/// The story <of> Being
-impl Story for Life {
-}
-
+// struct Control
+// {
+//     ontology: i32,
+//     epistemology: i32,
+//     ethics: i32,
+// }
+//
+// /// The story <of> Being
+// impl Story for Control {
+// }
+//
 

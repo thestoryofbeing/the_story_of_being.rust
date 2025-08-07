@@ -2,8 +2,9 @@
 // -- CRATE ATTRIBUTE ----------------------------------------------------------
 
 #![allow(dead_code)]
+#![allow(non_upper_case_globals)]
 
 //- MOD ------------------------------------------------------------------------
 
-mod representation;
-mod stories;
+pub mod conception;
+pub mod library;
